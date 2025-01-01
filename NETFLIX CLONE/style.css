@@ -1,0 +1,364 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+header{
+    width: 100%;
+    height: 110vh;
+     background-image: url(image/background.jpg);
+     box-shadow: 5px 9px 90px red;
+     position: center center;
+    
+}
+.box{
+    background-color: black;
+    width: 100%;
+    height: 110vh;
+    opacity: 0.64;
+    position: absolute;
+    top: 0px;
+}
+nav{
+    height: 80px;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin:auto;
+    position: relative;
+    z-index: 1;
+    flex-wrap: wrap;
+}
+.right{
+    border:0.2px solid rgb(235, 5, 5);
+    width: 78px;
+    height: 32px;
+    font-weight: 700;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    box-shadow:1px 1px 16px red;
+    cursor: pointer;
+
+}
+.left{
+ 
+     border:0.2px solid white;
+     width: 108px;
+     height: 32px;
+     font-weight: 700;
+     border-radius: 8px;
+     background-color: rgb(49, 49, 49);
+     color: white;
+     box-shadow:1px 1px 15px white;
+     cursor: pointer;
+     
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    position: relative;
+    margin-top: 30vh;
+    
+    
+}
+.main h1{
+  
+   
+    display: flex;
+    text-align: center;
+    font-size: 76px;
+    font-weight: 900;
+    flex-wrap: wrap;
+}
+.main p{
+    
+    font-size: 29px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 19px;
+    flex-wrap: wrap;
+   
+}
+.main span{
+    margin-top: 28px;
+}
+.input{
+    height: 51px;
+    border-radius: 8px;
+    background-color:  rgb(49, 49, 49);
+    color: white;
+    font-weight: 900;
+   z-index: 1;
+   opacity: 0.8;
+   box-shadow: 4px 3px 9px white;
+   
+
+}
+input::placeholder{
+    color: white;
+    font-size: 19px;
+    font-weight: 900;
+    
+
+}
+.side{
+    display: flex;
+    flex-wrap: wrap;
+}
+.inle{
+    display: flex;
+    border:solid red;
+    width: 168px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 800;
+    background-color: red;
+    border-radius: 5px;
+    position: relative;
+    left: 29px;
+    flex-wrap: wrap;
+    height: 7vh;
+    top: 19px;
+    cursor: pointer;
+    box-shadow:2px 1px 90px red;
+}
+.second{
+    height:70vh;
+    width: 100%;
+    z-index: 1;
+
+}
+.f{
+    width: 19vw;
+    display: flex;
+    height: 10vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4vw;
+    margin-top: 3vh;
+    font-weight: 900;
+    font-size: 34px;
+    flex-wrap: wrap;
+}
+section{
+    color: white;
+    margin-top: 30px;
+    margin-left: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sec div{
+    border:0.1px solid white;
+    margin-right:23px ;
+    width: 74px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 1px 1px 1px;
+    box-shadow: 3px 2px 13px white;
+    
+}
+ .sec span{
+    border:0.1px solid white;
+    width: 74px;
+    height: 27px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 1px 1px 1px;
+    box-shadow: 3px 2px 12px white;
+}
+aside{
+    display:flex;
+    gap: 23px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-left: 7vw;
+    cursor: pointer;
+   
+}
+aside img{
+    box-shadow: 5px 5px 10px red;
+}
+p{
+    color: white;
+    font-size: 33px;
+    margin-top: 22px;
+    margin-left: 24px;
+    font-weight: 900;
+}
+.secti div{
+    font-size: 34px;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: 900;
+}
+.secti{
+    display: flex;
+    flex-wrap: wrap;
+    gap:29px;
+    
+}
+.boxa{
+    height: 334px;
+    width: 260px;
+    border-radius: 12px;
+    background-color: #210e17;
+    box-shadow: 5px 5px 10px white;
+    
+    
+}
+.boxa span{
+    font-size: 27px;
+    margin-top: 19px;
+}
+.boxa div{
+    font-size: 22px;
+    margin-top: 25px;
+    font-weight: 200;
+}
+.boxa img{
+    height: 92px;
+    margin-left: 142px;
+}
+.i{
+    margin-top: 22px;
+    width: 84px;
+    margin-left: 153;
+}
+h2{
+    color: white;
+    font-size: 48px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    font-weight: 900;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+
+}
+.boxao{
+    width: 80vw;
+    height:14vh;
+    background-color: rgb(45, 45, 45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    cursor: pointer;
+    box-shadow:1px 1px 9px white;
+
+
+}
+h3{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    width: 89vw;
+    
+}
+.laster{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+input{
+    height: 51px;
+    border-radius: 8px;
+    background-color:  rgb(49, 49, 49);
+    color: white;
+    font-weight: 900;
+    margin-top: 20px;
+    box-shadow:1px 1px 9px white;  
+}
+.fo{
+    display: flex;
+    width: 86vw;
+    justify-content: center;
+}
+.get{
+    display: flex;
+    border:solid red;
+    width: 168px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 800;
+    background-color: red;
+    border-radius: 5px;
+    position: relative;
+    left: 29px;
+    flex-wrap: wrap;
+    height: 6.7vh;
+    top: 19px;
+    cursor: pointer;
+    box-shadow:3px 3px 93px red;
+}
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 13vw;
+    font-size: 19PX;
+    margin-top: 45px;
+}
+.dop{
+    display:flex;
+    color: white;
+    flex-direction: column;
+}
+.grpo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+
+}
+.grp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+
+
+}
+.gr{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+} 
+select{
+    height: 34px;
+    background-color:  rgb(49, 49, 49);
+    color: white;
+    font-weight: 800;
+    cursor: pointer;
+}
+footer{
+    color: rgb(104, 103, 103);
+    width: 30vw;
+    margin-top: 20px;
+    margin-left: 28px;
+    font-size: 30px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+
+
+
+
