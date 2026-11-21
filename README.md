@@ -1,5 +1,5 @@
 # NETFLIX_CLONE
-Netflix Clone
+
 This is a Netflix Clone website built using HTML and CSS. It mimics the basic layout and functionality of the Netflix homepage, allowing users to explore movies, TV shows, and subscriptions, just like the actual platform. The project showcases how to create a responsive, visually appealing webpage using various HTML and CSS techniques.
 
 Features:
