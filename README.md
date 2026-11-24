@@ -17,7 +17,7 @@ Footer with Contact Information: Includes a footer with additional links to FAQs
 Technologies Used:
 HTML5: For structuring the content.
 CSS3: For styling the layout, including responsive design techniques
-How to Use:
+How to Use:-
 Clone or download the repository to your local machine.
 Open index.html in your browser to view the clone in action.
 Modify the CSS or HTML as desired to personalize the page or add new features.
