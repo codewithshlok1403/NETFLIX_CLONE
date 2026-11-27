@@ -1,6 +1,6 @@
 # NETFLIX_CLONE
 
-This is a Netflix Clone website built using HTML and CSS. It mimics the basic layout and functionality of the Netflix homepage, allowing users to explore movies, TV shows, and subscriptions, just like the actual platform. The project showcases how to create a responsive, visually appealing webpage using various HTML and CSS techniques.
+This is a Netflix Clone website built using HTML and CSS. It mimics the basic layout and functionality of the Netflix homepage, allowing users to explore movies, TV shows, and subscriptions, just like the actual platform. The project showcases how to create a responsive, visually appealing webpage using various HTML and CSS techniques
 
 Features:
 Responsive Design: The webpage is designed to be fully responsive, meaning it adapts to different screen sizes, including desktop and mobile devices.
