@@ -7,7 +7,7 @@ Responsive Design: The webpage is designed to be fully responsive, meaning it ad
 Header with Navigation: Includes a navigation bar with options like language selection and sign-up button.
 Main Content Section: Displays key sections like unlimited movies, TV shows, and more. Users are prompted to enter their email to get started with a Netflix-like service.
 Trending Section: A "Trending Now" section with images representing different shows.
-Multiple Features: Includes various promotional features like:
+Multiple Features: Includes various promotional features like:-
 Watch on smart TVs, PlayStation, Xbox, Chromecast, and more.
 Download shows for offline viewing.
 Stream on multiple devices (phones, tablets, laptops, TVs).
